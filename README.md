@@ -1,8 +1,8 @@
-# 🌾 Harvestly Games
+#  Harvestly Games
 
 <div align="center">
 
-![Harvestly Games Banner](https://harvestly.games/assets/images/logo.png)
+![Harvestly Games Banner](https://ibb.co.com/3YkQ21DX)
 
 ### Plant • Harvest • Craft • Trade
 
@@ -14,7 +14,7 @@ A play-to-earn farming simulator where players grow crops, raise livestock, craf
 
 ---
 
-## 🌱 About Harvestly Games
+##  About Harvestly Games
 
 Harvestly Games is a farming simulation experience inspired by classic social farming games, reimagined for modern online communities.
 
