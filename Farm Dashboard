@@ -1,0 +1,26 @@
+export default function FarmDashboard() {
+
+  const stats = {
+    crops: 84,
+    farms: 5,
+    earnings: 1240
+  };
+
+  return (
+    <div className="grid grid-cols-3 gap-6">
+
+      <div className="p-6 border rounded-xl">
+        🌾 {stats.crops} Crops
+      </div>
+
+      <div className="p-6 border rounded-xl">
+        🚜 {stats.farms} Farms
+      </div>
+
+      <div className="p-6 border rounded-xl">
+        💰 {stats.earnings} HVT
+      </div>
+
+    </div>
+  );
+}
