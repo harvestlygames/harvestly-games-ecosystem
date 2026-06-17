@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Harvestly Games Banner](https://ibb.co.com/3YkQ21DX)
 
 ### Plant • Harvest • Craft • Trade
 
