@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Wheat",
+    "growTime": 60,
+    "reward": 5
+  },
+  {
+    "id": 2,
+    "name": "Corn",
+    "growTime": 120,
+    "reward": 12
+  },
+  {
+    "id": 3,
+    "name": "Tomato",
+    "growTime": 180,
+    "reward": 20
+  }
+]
